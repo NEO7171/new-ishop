@@ -1,0 +1,21 @@
+{
+  "name": "neo/new-ishop.loc",
+  "description": "mvc-php8",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "User",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "wfm\\": "vendor/wfm",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "^v5.7.2"
+  }
+}

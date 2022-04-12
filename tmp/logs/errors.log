@@ -1,0 +1,528 @@
+[2022-04-05 16:41:52] 
+            Текст ошибки: Undefined variable $test | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\public\index.php| 
+            Строка: 14
+            
+============================
+[2022-04-05 16:44:20] 
+            Текст ошибки: Undefined variable $test | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\public\index.php| 
+            Строка: 14
+            
+============================
+[2022-04-05 16:45:19] 
+            Текст ошибки: Undefined variable $test | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\public\index.php| 
+            Строка: 14
+            
+============================
+[2022-04-05 16:46:26] 
+            Текст ошибки: Какая то ошибка! | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\public\index.php| 
+            Строка: 13
+            
+============================
+[2022-04-07 11:09:34] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 35
+            
+============================
+[2022-04-07 11:19:34] 
+            Текст ошибки: Контроллер app\controllers\PageController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 42
+            
+============================
+[2022-04-07 11:20:06] 
+            Текст ошибки: Class "app\controllers\PageController" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 37
+            
+============================
+[2022-04-07 11:27:27] 
+            Текст ошибки: Контроллер app\controllers\MainController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 49
+            
+============================
+[2022-04-07 11:27:46] 
+            Текст ошибки: Метод app\controllers\MainController::indexAction не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 45
+            
+============================
+[2022-04-07 11:28:43] 
+            Текст ошибки: Метод app\controllers\MainController::indexAction не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 45
+            
+============================
+[2022-04-07 11:28:43] 
+            Текст ошибки: Метод app\controllers\MainController::indexAction не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 45
+            
+============================
+[2022-04-07 11:28:44] 
+            Текст ошибки: Метод app\controllers\MainController::indexAction не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 45
+            
+============================
+[2022-04-07 11:28:44] 
+            Текст ошибки: Метод app\controllers\MainController::indexAction не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 45
+            
+============================
+[2022-04-07 11:32:11] 
+            Текст ошибки: syntax error, unexpected token "__NAMESPACE__", expecting "," or ";" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 7
+            
+============================
+[2022-04-07 11:32:12] 
+            Текст ошибки: syntax error, unexpected token "__NAMESPACE__", expecting "," or ";" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 7
+            
+============================
+[2022-04-07 11:51:25] 
+            Текст ошибки: Метод app\controllers\PageController::viewAction не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 45
+            
+============================
+[2022-04-07 11:53:28] 
+            Текст ошибки: Контроллер app\controllers\admin\MainController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 49
+            
+============================
+[2022-04-07 11:54:52] 
+            Текст ошибки: Метод app\controllers\admin\MainController::indexAction не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 45
+            
+============================
+[2022-04-07 12:02:17] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 52
+            
+============================
+[2022-04-08 00:02:13] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 70
+            
+============================
+[2022-04-08 00:07:41] 
+            Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 57
+            
+============================
+[2022-04-08 10:06:49] 
+            Текст ошибки: Контроллер app\controllers\admin\ShopController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 69
+            
+============================
+[2022-04-09 00:16:36] 
+            Текст ошибки: Контроллер app\controllers\admin\ShopController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 69
+            
+============================
+[2022-04-09 00:16:36] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 72
+            
+============================
+[2022-04-09 10:19:10] 
+            Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 12
+            
+============================
+[2022-04-09 10:19:30] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:20:27] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:20:29] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:21:35] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:21:36] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:23:24] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:23:31] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:23:36] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:26:15] 
+            Текст ошибки: Контроллер app\controllers\DfsdfController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 71
+            
+============================
+[2022-04-09 10:27:04] 
+            Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 57
+            
+============================
+[2022-04-09 10:28:42] 
+            Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 57
+            
+============================
+[2022-04-09 10:28:46] 
+            Текст ошибки: Cannot redeclare wfm\Controller::$route | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 15
+            
+============================
+[2022-04-09 10:28:54] 
+            Текст ошибки: Cannot redeclare wfm\Controller::$route | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 15
+            
+============================
+[2022-04-09 10:29:28] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:30:33] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:30:33] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:30:33] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:30:34] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:30:34] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 10:30:34] 
+            Текст ошибки: Undefined array key "acton" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 30
+            
+============================
+[2022-04-09 11:04:01] 
+            Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 12
+            
+============================
+[2022-04-09 11:16:40] 
+            Текст ошибки: Файл вида C:\OpenServer2\domains\new-ishop.loc/app/view/Main/index.php не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 37
+            
+============================
+[2022-04-09 11:17:04] 
+            Текст ошибки: Не найден Файл вида C:\OpenServer2\domains\new-ishop.loc/app/view/Main/index.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 37
+            
+============================
+[2022-04-09 11:18:04] 
+            Текст ошибки: Не найден Файл вида C:\OpenServer2\domains\new-ishop.loc/app/view/Main/index.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 37
+            
+============================
+[2022-04-09 11:18:36] 
+            Текст ошибки: Не найден Файл вида C:\OpenServer2\domains\new-ishop.loc/app/view/Main/index.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 37
+            
+============================
+[2022-04-09 11:20:19] 
+            Текст ошибки: Не найден Файл вида C:\OpenServer2\domains\new-ishop.loc/app/view/Main/index.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 37
+            
+============================
+[2022-04-09 11:20:20] 
+            Текст ошибки: Не найден Файл вида C:\OpenServer2\domains\new-ishop.loc/app/view/Main/index.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 37
+            
+============================
+[2022-04-09 11:20:21] 
+            Текст ошибки: Не найден Файл вида C:\OpenServer2\domains\new-ishop.loc/app/view/Main/index.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 37
+            
+============================
+[2022-04-09 11:45:51] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/ishop.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-10 10:07:28] 
+            Текст ошибки: Контроллер app\controllers\admin\ShopController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 71
+            
+============================
+[2022-04-10 10:07:28] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-10 12:10:07] 
+            Текст ошибки: Контроллер app\controllers\admin\ShopController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 71
+            
+============================
+[2022-04-10 12:10:07] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-10 21:31:07] 
+            Текст ошибки: Контроллер app\controllers\admin\ShopController не найден | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 71
+            
+============================
+[2022-04-10 21:31:08] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-10 23:44:31] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-10 23:55:44] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/ishop.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-10 23:55:44] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/ishop.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-10 23:55:45] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/ishop.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-11 09:46:59] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/test.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-11 09:49:46] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/test.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-11 09:49:47] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/test.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-11 09:49:47] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/test.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-11 09:49:53] 
+            Текст ошибки: Не найден Файл шаблона C:\OpenServer2\domains\new-ishop.loc/app/views/layouts/test2.php  | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 49
+            
+============================
+[2022-04-11 21:49:33] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-11 21:49:37] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-11 23:04:00] 
+            Текст ошибки: Call to a member function find() on null | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php| 
+            Строка: 1018
+            
+============================
+[2022-04-11 23:05:44] 
+            Текст ошибки: Undefined variable $test | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 3
+            
+============================
+[2022-04-11 23:07:42] 
+            Текст ошибки: Undefined variable $test | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 3
+            
+============================
+[2022-04-11 23:08:14] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
+[2022-04-11 23:09:24] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
+[2022-04-11 23:09:24] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
+[2022-04-11 23:09:25] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
+[2022-04-11 23:15:23] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
+[2022-04-11 23:15:24] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
+[2022-04-11 23:15:24] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
+[2022-04-11 23:15:24] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
+[2022-04-11 23:18:03] 
+            Текст ошибки: syntax error, unexpected token ";", expecting identifier or variable or "{" or "$" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 22
+            
+============================
+[2022-04-11 23:18:04] 
+            Текст ошибки: syntax error, unexpected token ";", expecting identifier or variable or "{" or "$" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 22
+            
+============================
+[2022-04-11 23:18:04] 
+            Текст ошибки: syntax error, unexpected token ";", expecting identifier or variable or "{" or "$" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 22
+            
+============================
+[2022-04-11 23:18:04] 
+            Текст ошибки: syntax error, unexpected token ";", expecting identifier or variable or "{" or "$" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 22
+            
+============================
+[2022-04-11 23:18:04] 
+            Текст ошибки: syntax error, unexpected token ";", expecting identifier or variable or "{" or "$" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\MainController.php| 
+            Строка: 22
+            
+============================
+[2022-04-11 23:18:46] 
+            Текст ошибки: Undefined variable $name | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\Main\index.php| 
+            Строка: 4
+            
+============================
