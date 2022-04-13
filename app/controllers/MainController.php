@@ -2,12 +2,12 @@
 
 namespace app\controllers;
 
+use app\models\Main;
 use RedBeanPHP\R;
-use wfm\Controller;
 
 
 /** @property Main $model */
-class MainController extends Controller
+class MainController extends AppController
 {
     // унаследовали
 //    public array $data = [];
@@ -19,11 +19,8 @@ class MainController extends Controller
     // public false|string $layout = 'test2';
     public function indexAction()
     {
-        $names = $this->model->get_names();
-        $one_name = R::getRow( 'SELECT * FROM name WHERE id = 2');
-      //  debug($names);
-        $this->setMeta('Главная страница', 'Description Главной стр', 'keywords главной');
-        // $this->layout = 'default'; // переопределим layout
-             $this->set(compact('names'));
+        $slides = R::findAll('slider');
+        // передаем переменную в вид
+        $this->set(compact('slides'));
     }
 }

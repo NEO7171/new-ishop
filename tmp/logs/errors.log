@@ -1576,3 +1576,21 @@
             Строка: 74
             
 ============================
+[2022-04-13 18:33:30] 
+            Текст ошибки: Undefined array key "title" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 59
+            
+============================
+[2022-04-13 18:33:41] 
+            Текст ошибки: Undefined array key "keywords" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 61
+            
+============================
+[2022-04-13 19:25:02] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
