@@ -6,7 +6,7 @@ use \wfm\View;
 
 ?>
 <?php $this->getPart('parts/header') ?>
-<p>Title ishop</p>
-<?= $this->content;?>
-<?php $this->getDbLogs(); ?>
+
+<?php echo $this->content;?>
+
 <?php $this->getPart('parts/footer') ?>
