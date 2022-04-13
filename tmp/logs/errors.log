@@ -1594,3 +1594,63 @@
             Строка: 74
             
 ============================
+[2022-04-14 00:13:29] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-14 00:26:45] 
+            Текст ошибки: Undefined variable $products | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\parts\product_loop.php| 
+            Строка: 8
+            
+============================
+[2022-04-14 00:27:22] 
+            Текст ошибки: Undefined variable $products | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\parts\product_loop.php| 
+            Строка: 8
+            
+============================
+[2022-04-14 00:27:23] 
+            Текст ошибки: Undefined variable $products | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\parts\product_loop.php| 
+            Строка: 8
+            
+============================
+[2022-04-14 00:27:23] 
+            Текст ошибки: Undefined variable $products | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\parts\product_loop.php| 
+            Строка: 8
+            
+============================
+[2022-04-14 00:27:23] 
+            Текст ошибки: Undefined variable $products | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\parts\product_loop.php| 
+            Строка: 8
+            
+============================
+[2022-04-14 00:27:24] 
+            Текст ошибки: Undefined variable $products | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\parts\product_loop.php| 
+            Строка: 8
+            
+============================
+[2022-04-14 00:31:24] 
+            Текст ошибки: Undefined variable $products | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\parts\products_loop.php| 
+            Строка: 8
+            
+============================
+[2022-04-14 00:31:25] 
+            Текст ошибки: Undefined variable $products | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\views\parts\products_loop.php| 
+            Строка: 8
+            
+============================
+[2022-04-14 00:31:25] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================

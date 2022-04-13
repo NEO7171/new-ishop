@@ -20,7 +20,10 @@ class MainController extends AppController
     public function indexAction()
     {
         $slides = R::findAll('slider');
+
+        $products = $this->model->getHits(1, 6);
         // передаем переменную в вид
-        $this->set(compact('slides'));
+        $this->set(compact('slides', 'products'));
+
     }
 }
