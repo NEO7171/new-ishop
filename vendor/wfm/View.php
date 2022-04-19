@@ -56,7 +56,7 @@ class View
     // формируем вывод метатегов
     public function getMeta()
     {
-        $out = '<title>' . h($this->meta['title']) . '</title>' . PHP_EOL;
+        $out = '<title>' . App::$app->getProperty('site_name') . '::' . h($this->meta['title']) . '</title>' . PHP_EOL;
         $out .= '<meta name="description" content=" ' . h($this->meta['description']) . '">' . PHP_EOL;
         $out .= '<meta name="keywords" content="' . h($this->meta['keywords']) . '">' . PHP_EOL;
         return $out;
@@ -85,10 +85,10 @@ class View
             extract($data);
         }
         $file = APP . "/views/{$file}.php";
-        if(is_file($file)){
+        if (is_file($file)) {
             require $file;
-        }else{
-           echo "Файл {$file} не найден";
+        } else {
+            echo "Файл {$file} не найден";
         }
     }
 }

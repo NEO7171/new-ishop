@@ -1654,3 +1654,543 @@
             Строка: 74
             
 ============================
+[2022-04-14 11:05:41] 
+            Текст ошибки: Array to string conversion | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 44
+            
+============================
+[2022-04-14 11:06:34] 
+            Текст ошибки: Array to string conversion | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Controller.php| 
+            Строка: 44
+            
+============================
+[2022-04-14 23:07:09] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 09:15:01] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:09:39] 
+            Текст ошибки: Call to a member function getDatabase() on null | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 70
+            
+============================
+[2022-04-15 10:11:18] 
+            Текст ошибки: Call to a member function getDatabase() on null | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 70
+            
+============================
+[2022-04-15 10:11:19] 
+            Текст ошибки: Call to a member function getDatabase() on null | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\View.php| 
+            Строка: 70
+            
+============================
+[2022-04-15 10:23:56] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:23:56] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:23:56] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:23:56] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:23:56] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:27:40] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:27:40] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:27:40] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:27:40] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:27:40] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:28:02] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:28:02] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:28:02] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:28:03] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:28:03] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:29:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:29:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:29:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:29:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 10:56:02] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:56:06] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:56:16] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:56:17] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:56:17] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:57:20] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:57:21] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:57:21] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:57:21] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:57:22] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 10:57:22] 
+            Текст ошибки: Class "app\widgets\Language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:01:47] 
+            Текст ошибки: syntax error, unexpected token ";", expecting "{" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 7
+            
+============================
+[2022-04-15 11:01:48] 
+            Текст ошибки: syntax error, unexpected token ";", expecting "{" | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 7
+            
+============================
+[2022-04-15 11:02:01] 
+            Текст ошибки: Class "app\widgets\language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:02:16] 
+            Текст ошибки: Class "app\widgets\language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:03:39] 
+            Текст ошибки: Class "app\widgets\language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:03:40] 
+            Текст ошибки: Class "app\widgets\language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:04:03] 
+            Текст ошибки: Class "app\widgets\language\language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:04:03] 
+            Текст ошибки: Class "app\widgets\language\language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:04:04] 
+            Текст ошибки: Class "app\widgets\language\language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:04:04] 
+            Текст ошибки: Class "app\widgets\language\language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:04:04] 
+            Текст ошибки: Class "app\widgets\language\language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 27
+            
+============================
+[2022-04-15 11:04:57] 
+            Текст ошибки: Class "app\widgets\language\Language" not found | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:10:48] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:13:46] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:14:29] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:14:29] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:14:30] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:14:44] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:14:44] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:14:44] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:14:45] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:16:07] 
+            Текст ошибки: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in C:\OpenServer2\domains\new-ishop.loc\app\controllers\AppController.php on line 28 and exactly 1 expected | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\app\widgets\language\Language.php| 
+            Строка: 28
+            
+============================
+[2022-04-15 11:17:10] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 11:17:10] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 11:17:10] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 11:17:10] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-15 11:17:10] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-16 01:38:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-16 01:38:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:48:34] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:48:35] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:48:35] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:48:35] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:48:35] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:48:52] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:48:52] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:50:37] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:51:09] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:51:09] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:51:09] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:51:09] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:51:09] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:30] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:31] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:31] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:44] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:44] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:44] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:44] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
+[2022-04-19 16:56:44] 
+            Текст ошибки: Страница не найдена | 
+            Файл: C:\OpenServer2\domains\new-ishop.loc\vendor\wfm\Router.php| 
+            Строка: 74
+            
+============================
