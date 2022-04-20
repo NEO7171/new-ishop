@@ -44,9 +44,14 @@ class Router
         //var_dump($url);
         // удалим GET параметры
         $url = self::removeQueryString($url);
-       // var_dump($url);
+        // var_dump($url);
         // проверка найдено или нет в таблице маршрутов
         if (self::matchRoute($url)) {
+            // проверим наличие языка в маршруте
+            if(!empty(self::$route['lang'])){
+                //запишем язык в контейнер
+                App::$app->setProperty('lang', self::$route['lang']);
+            }
             // формируем путь, объект для найденого контроллера
             $controller = 'app\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
             // проверяем наличие такого контроллера

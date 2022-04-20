@@ -25,8 +25,10 @@ class AppController extends Controller
         parent::__construct($route);
         new AppModel();
         // запишем языки в контейнер
-        App::$app->setProperty('languages',Language::getLanguages());
-        debug(App::$app->getProperty('languages'));
+        App::$app->setProperty('languages', Language::getLanguages());
+        App::$app->setProperty('language', Language::getLanguage(App::$app->getProperty('languages')));
+//         debug(App::$app->getProperty('languages'));
+//         debug(App::$app->getProperty('language'));
     }
 
 }
