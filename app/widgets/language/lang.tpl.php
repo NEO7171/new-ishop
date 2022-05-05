@@ -3,15 +3,14 @@
         <img src="<?= PATH ?>/assets/img/lang/<?= \wfm\App::$app->getProperty('language')['code'] ?>.png" alt="">
     </a>
     <ul class="dropdown-menu" id="languages">
-        <?php foreach ($this->languages as $k => $v ): ?>
-        <?php if($k == \wfm\App::$app->getProperty('language')['code']) continue ?>
-        <?php endforeach; ?>
+        <?php foreach ($this->languages as $k => $v): ?>
+            <?php if ($k == \wfm\App::$app->getProperty('language')['code']) continue ?>
             <li>
                 <button class="dropdown-item" data-langcode="<?= $k ?>">
                     <img src="<?= PATH ?>/assets/img/lang/<?= $k ?>.png" alt="">
                     <?= $v['title'] ?>
                 </button>
             </li>
-
+        <?php endforeach; ?>
     </ul>
 </div>

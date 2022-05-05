@@ -23,3 +23,9 @@ function redirect($http = false)
     header("Location: $redirect");
     die;
 }
+
+// ф-ция получения базового URL С en или без
+function base_url()
+{
+    return PATH . '/' . (\wfm\App::$app->getProperty('lang')? \wfm\App::$app->getProperty('lang') . '/' : '');
+}
