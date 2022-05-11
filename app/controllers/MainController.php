@@ -4,6 +4,7 @@ namespace app\controllers;
 
 use app\models\Main;
 use RedBeanPHP\R;
+use wfm\App;
 
 
 /** @property Main $model */
@@ -19,9 +20,11 @@ class MainController extends AppController
     // public false|string $layout = 'test2';
     public function indexAction()
     {
+        // получаем ID языка
+        $lang = App::$app->getProperty('language');
         $slides = R::findAll('slider');
 
-        $products = $this->model->getHits(1, 6);
+        $products = $this->model->getHits($lang, 6);
         // передаем переменную в вид
         $this->set(compact('slides', 'products'));
         // пропишем тайтл

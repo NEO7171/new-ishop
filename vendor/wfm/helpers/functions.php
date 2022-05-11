@@ -1,4 +1,5 @@
 <?php
+
 function debug($data, $die = false)
 {
     echo '<pre>' . print_r($data, 1) . '</pre>' . '<hr>';
@@ -12,6 +13,7 @@ function h($str)
 {
     return htmlspecialchars($str);
 }
+
 
 function redirect($http = false)
 {
@@ -27,5 +29,50 @@ function redirect($http = false)
 // ф-ция получения базового URL С en или без
 function base_url()
 {
-    return PATH . '/' . (\wfm\App::$app->getProperty('lang')? \wfm\App::$app->getProperty('lang') . '/' : '');
+    return PATH . '/' . (\wfm\App::$app->getProperty('lang') ? \wfm\App::$app->getProperty('lang') . '/' : '');
+}
+
+// получаем данные из массива GET
+/**
+ * @param string $key key of GET array
+ * @param string $type Values 'i', 'f', 's'
+ * @return float|int|string
+ */
+function get($key, $type = 'i')
+{
+    $param = $key;
+
+    // делаем переменную в переменной
+    $$param = $_GET[$param] ?? '';
+    // приведение типов
+    if($type == 'i'){
+        return (int)$$param;
+    }elseif ($type == 'f'){
+        return (float)$$param;
+    }else {
+        return trim($$param);
+    }
+
+}
+// получаем данные из массива POST
+/**
+ * @param string $key key of POST array
+ * @param string $type Values 'i', 'f', 's'
+ * @return float|int|string
+ */
+function post($key, $type = 'i')
+{
+    $param = $key;
+
+    // делаем переменную в переменной
+    $$param = $_POST[$param] ?? '';
+    // приведение типов
+    if($type == 'i'){
+        return (int)$$param;
+    }elseif ($type == 'f'){
+        return (float)$$param;
+    }else {
+        return trim($$param);
+    }
+
 }

@@ -10,7 +10,7 @@ class LanguageController extends AppController
 {
     public function chengeAction()
     {
-        $lang = $_GET['lang'] ?? null;
+        $lang = get('lang','s');
         //  debug(App::$app->getProperty('languages'), 1);
         if ($lang) {
             // проверим есть ли язык среди доступных
