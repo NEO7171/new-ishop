@@ -5,6 +5,7 @@ namespace app\controllers;
 use app\models\Main;
 use RedBeanPHP\R;
 use wfm\App;
+use wfm\Cache;
 
 
 /** @property Main $model */
@@ -21,8 +22,13 @@ class MainController extends AppController
 
     public function indexAction()
     {
-
-          // получаем ID языка
+        // кешируем данные
+//        $test = 'Hallboy';
+//        $cache = Cache::getInstance();
+//        //$cache->set('test', $test, 20);
+//        $a = $cache->get('test');
+//        var_dump($cache);
+        // получаем ID языка
         $lang = App::$app->getProperty('language');
         $slides = R::findAll('slider');
 
