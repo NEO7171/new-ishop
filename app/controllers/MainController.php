@@ -18,9 +18,11 @@ class MainController extends AppController
 //    public object $model;
 
     // public false|string $layout = 'test2';
+
     public function indexAction()
     {
-        // получаем ID языка
+
+          // получаем ID языка
         $lang = App::$app->getProperty('language');
         $slides = R::findAll('slider');
 
@@ -28,6 +30,9 @@ class MainController extends AppController
         // передаем переменную в вид
         $this->set(compact('slides', 'products'));
         // пропишем тайтл
-        $this->setMeta('Главная страница', 'description Главная', 'keywords Главная');
+        $this->setMeta(
+            ___('main_index_meta_title'),
+            ___('main_index_meta_description'),
+            ___('main_index_meta_keywords'));
     }
 }

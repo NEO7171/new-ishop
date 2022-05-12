@@ -45,15 +45,16 @@ function get($key, $type = 'i')
     // делаем переменную в переменной
     $$param = $_GET[$param] ?? '';
     // приведение типов
-    if($type == 'i'){
+    if ($type == 'i') {
         return (int)$$param;
-    }elseif ($type == 'f'){
+    } elseif ($type == 'f') {
         return (float)$$param;
-    }else {
+    } else {
         return trim($$param);
     }
 
 }
+
 // получаем данные из массива POST
 /**
  * @param string $key key of POST array
@@ -67,12 +68,20 @@ function post($key, $type = 'i')
     // делаем переменную в переменной
     $$param = $_POST[$param] ?? '';
     // приведение типов
-    if($type == 'i'){
+    if ($type == 'i') {
         return (int)$$param;
-    }elseif ($type == 'f'){
+    } elseif ($type == 'f') {
         return (float)$$param;
-    }else {
+    } else {
         return trim($$param);
     }
+}
 
+function __($key)
+{
+    echo \wfm\Language::get($key);
+}
+function ___($key)
+{
+    return \wfm\Language::get($key);
 }
