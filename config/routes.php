@@ -20,3 +20,4 @@ Router::add('^(?P<lang>[a-z]+)?/?product/?(?P<slug>[a-z0-9-]+)/?$', ['controller
 
 Router::add('^(?P<lang>[a-z]+)?/?$', ['controller' => 'Main', 'action' => 'index']); // если строка пустая
 Router::add('^(?P<controller>[a-z-]+)/(?P<action>[a-z-]+)/?$'); // если строка пустая
+Router::add('^(?P<lang>[a-z]+)/(?P<controller>[a-z-]+)/(?P<action>[a-z-]+)/?$'); // возможен язык en/

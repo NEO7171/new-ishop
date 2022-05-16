@@ -74,7 +74,7 @@ class View
                 $logs->grep('INSERT'),
                 $logs->grep('UPDATE'),
                 $logs->grep('DELETE'));
-            debug($logs);
+            //debug($logs);
         }
     }
 
