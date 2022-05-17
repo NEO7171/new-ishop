@@ -15,6 +15,9 @@ class App
         $query = trim($_SERVER['QUERY_STRING'], '/');
 
         new ErrorHandler();
+        // стартуем сессию
+        session_start();
+       // session_destroy();
         self::$app = Registry::getInstance();
         $this->getParams();
         // передаем в маршрутизатор текущий URL

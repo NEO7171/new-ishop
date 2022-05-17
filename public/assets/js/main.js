@@ -5,7 +5,7 @@ $(function () {
         const id = $(this).data('id');
         const qty = $('#input-quantity').val() ? $('#input-quantity').val() : 1;
         const $this = $(this);
-        //console.log(id, qty);
+        //console.log(qty);
         $.ajax({
             url: 'cart/add',
             type: 'GET',
@@ -21,7 +21,7 @@ $(function () {
             }
         })
     })
-    //* корзина
+    //* end корзина
     $('.open-search').click(function (e) {
         e.preventDefault();
         $('#search').addClass('active');

@@ -4,7 +4,6 @@
 namespace app\controllers;
 
 use app\models\AppModel;
-
 use app\widgets\language\Language;
 use wfm\App;
 use wfm\Controller;

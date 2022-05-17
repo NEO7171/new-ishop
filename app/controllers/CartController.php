@@ -14,18 +14,27 @@ use wfm\App;
  */
 class CartController extends AppController
 {
-    public function addAction()
+    public function addAction(): bool
     {
         $lang = App::$app->getProperty('language');
         $id = get('id');
-        $qty = get('$qty');
-//        var_dump($id, $qty);
-//        die;
-        // проаерка
+        $qty = get('qty');
+     // var_dump($id, $qty);
+    // die;
+        // проверка
         if (!$id) {
             return false;
         }
         $product = $this->model->get_product($id, $lang);
-        debug($product, 1);
+       // debug($product, 1);
+        if(!$product){
+            return false;
+        }
+        $this->model->add_to_cart($product, $qty);
+       if($this->isAjax()){
+           debug($_SESSION['cart'], 1);
+       }
+       redirect();
+       return true;
     }
 }
